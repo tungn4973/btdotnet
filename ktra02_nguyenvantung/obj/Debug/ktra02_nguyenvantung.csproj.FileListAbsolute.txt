@@ -1,0 +1,10 @@
+C:\Users\Tung\Desktop\ktra02_nguyenvantung\obj\Debug\ktra02_nguyenvantung.csproj.AssemblyReference.cache
+C:\Users\Tung\Desktop\ktra02_nguyenvantung\obj\Debug\ktra02_nguyenvantung.Form1.resources
+C:\Users\Tung\Desktop\ktra02_nguyenvantung\obj\Debug\ktra02_nguyenvantung.csproj.GenerateResource.cache
+C:\Users\Tung\Desktop\ktra02_nguyenvantung\obj\Debug\ktra02_nguyenvantung.csproj.CoreCompileInputs.cache
+C:\Users\Tung\Desktop\ktra02_nguyenvantung\bin\Debug\ktra02_nguyenvantung.exe.config
+C:\Users\Tung\Desktop\ktra02_nguyenvantung\bin\Debug\ktra02_nguyenvantung.exe
+C:\Users\Tung\Desktop\ktra02_nguyenvantung\bin\Debug\ktra02_nguyenvantung.pdb
+C:\Users\Tung\Desktop\ktra02_nguyenvantung\obj\Debug\ktra02_nguyenvantung.Properties.Resources.resources
+C:\Users\Tung\Desktop\ktra02_nguyenvantung\obj\Debug\ktra02_nguyenvantung.exe
+C:\Users\Tung\Desktop\ktra02_nguyenvantung\obj\Debug\ktra02_nguyenvantung.pdb
